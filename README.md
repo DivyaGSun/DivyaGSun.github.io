@@ -1,2 +1,0 @@
-# DivyaGSun.github.io
-portfolio
