@@ -2,7 +2,8 @@
 
 Porfolio <br />
 Files: <br />
-0. Link to microarray tumor project https://github.com/DivyaGSun/project-1-lava-lamp
+
+0. Link to microarray tumor project https://github.com/DivyaGSun/project-1-lava-lamp <br />
 1. charts.R files were various visualizations using R (plotly, leafly, dplyr) <br />
 2. mRNA_to_protein and percentage_GC_content are short bioinformatics projects <br />
 3. project0 ans simulations are longer python projects <br />
