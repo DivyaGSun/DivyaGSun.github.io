@@ -3,9 +3,9 @@
 Porfolio <br />
 Files: <br />
 
-0. Link to microarray tumor project https://github.com/DivyaGSun/project-1-lava-lamp <br />
+0. Link to Gene search website https://bioed.bu.edu/cgi-bin/students_21/divyas3/HW04.py , using pymsql, html, javascript <br />
 1. biologist_analysis.R is analysis of cuffdiff outputs into lineplots, GO ontology of DAVID, cluster heatmaps full projects can be found https://github.com/BF528/project-2-lava-lamp <br />
-2. charts.R files were various visualizations using R (plotly, leafly, dplyr) <br />
+2. Limma analysis script <br />
 3. mRNA_to_protein and percentage_GC_content are short bioinformatics projects <br />
 4. project0 ans simulations are longer python projects <br />
 The project0 is a tic tac toe game with a user interactive, computer vs user tic tac toe, where user can specify board size and sequence that constitutes a win in python <br />
