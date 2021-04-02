@@ -1,7 +1,7 @@
 # DivyaGSun.github.io
 
-Porfolio <br />
-Files: <br />
+## Porfolio <br />
+### File Contents: <br />
 
 0. Link to Gene search website https://bioed.bu.edu/cgi-bin/students_21/divyas3/HW04.py , using pymsql, html, javascript <br />
 1. Limma analysis script <br />
